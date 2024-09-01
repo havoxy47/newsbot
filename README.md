@@ -1,0 +1,2 @@
+# newsbot
+simple news bot 
